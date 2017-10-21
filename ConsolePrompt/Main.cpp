@@ -11,6 +11,10 @@
 
 using namespace std;
 
+/*
+Привет, данный проект кодил @alexuiop1337, не удаляй данный ватермарк хотя бы в знак уважения к проделанной работе.
+К сожалению сюда не попал kewriteprocessmemory() и mmap, но ничего, сурс вы все же увидите, а так ждите byte4????
+*/
 const int cmds_count = 12;
 string cmds[cmds_count] =
 {
